@@ -1,0 +1,12 @@
+.myNav{
+    background: linear-gradient(to right , #222 70% , purple );
+
+}
+
+.myNav  a {
+    color: red ;
+}
+section{
+    width: 80%;
+    margin: auto;
+}
